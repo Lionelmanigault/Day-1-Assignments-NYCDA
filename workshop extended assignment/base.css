@@ -1,0 +1,45 @@
+html * {
+	background-color: #3498db;
+	margin: auto;
+	padding: 0px;
+	
+}
+body {	
+	width: 750px;
+	text-align: center;
+	/*padding: 10px;*/
+}
+
+h2 {
+	color: #fff;
+	background-color: #e67e22;
+	text-align: center;
+	margin:40px auto;
+	line-height: 15px;
+	font-family: sans-serif;
+
+}
+
+h1 {
+	color: #fff;
+	background-color: #e67e22;
+	text-align: center;
+	margin:40px auto;
+	line-height: 20px;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	background-position: 
+}
+
+h1, p {
+	font-family: sans-serif;
+}
+
+b {
+	color: #e67e22
+
+}
+
+i {
+	color: #e67e22;
+}
